@@ -1,0 +1,13 @@
+{
+  "name": "Thriam-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "human-readable": "^0.2.1",
+    "moment-timezone": "^0.5.34",
+    "pino": "^7.11.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
